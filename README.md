@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" text-shadow="4px 5px #313131>
   Vue Weather
 </h1>
 
