@@ -41,7 +41,7 @@ This project is under the license of MIT. See the [LICENSE](.github/LICENSE.md) 
  Use *yarn add* for download all the dependencies
  
  ## Start the app
- Use *npx serve*
+ Use *npm run serve*
  # Or
  Use *yarn serve*
  
