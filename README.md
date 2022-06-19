@@ -46,6 +46,8 @@ This project is under the license of MIT. See the [LICENSE](.github/LICENSE.md) 
  Use *yarn serve*
  
  ## ❤️ Considerations
+ My first project Vue-Based so...
+ 
  Simple Vue-based app that returns the weather of the searched location.
  
 Feito com ♥ by DevDuque :wave: [ContactMe!](https://www.linkedin.com/in/davih-duque-787b901a4/)
