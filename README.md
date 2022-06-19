@@ -16,7 +16,7 @@
     Project developed with VueJS, OpenWeather API.
   
   ## 💻 Project
-    It is a Vue-based application, which returns the weather of the searched site using the OpenWeather API
+    It is a Vue-based application, which returns the weather of the searched city, using the OpenWeather API
   
   ## :memo: License
 
